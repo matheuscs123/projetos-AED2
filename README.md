@@ -1,6 +1,6 @@
 # Projetos AED2
 
-Este repositório tem como objetivo apresentar e resolver exercícios dos capítulos 2, 3 e 4 do livro *The Atlas for the Aspiring Network Scientist*, como parte da disciplina de Algoritmos e Estruturas de Dados 2.
+Este repositório tem como objetivo guardar todos os trabalhos feitos na disciplina de algoritmo e estrutura de dados 2.
 
 **Aluno:** Matheus Carvalho da Silva  
 **Curso:** Engenharia de Computação  
