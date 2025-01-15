@@ -1,4 +1,4 @@
-                               **DESCRIÇÃO**
+   **DESCRIÇÃO**
 
   
   
@@ -6,7 +6,7 @@ esse trabalho foi realizado por **matheus Carvalho da Silva**(20230093670)
 
 
 
-                             **OBJETIVO GERAL**
+  **OBJETIVO GERAL**
 
 
 
@@ -14,7 +14,7 @@ Este projeto tem como objetivo aplicar o Algoritmo de Kruskal para calcular a Á
 
 
 
-                           **SUJESTÃO DE PROBLEMAS**
+  **SUJESTÃO DE PROBLEMAS**
 
 
 
@@ -47,7 +47,7 @@ manter a conectividade.
 
 
 
-                         **REQUISITOS**
+  **REQUISITOS**
 
 Requisito #01
 Dado um dos problemas anteriores, escolha
@@ -56,7 +56,7 @@ interest) e calcule a MST para esses pontos.
 Use o notebook kruskal_natal.ipynb como
 referência.
 
-**avaliação**
+  **avaliação**
 Trabalho individual
 Nota: 2,5 pontos na unidade 2.
 Submeter o link do repositório no github
