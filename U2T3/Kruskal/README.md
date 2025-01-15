@@ -57,6 +57,7 @@ Use o notebook kruskal_natal.ipynb como
 referência.
 
   **avaliação**
+  
 Trabalho individual
 Nota: 2,5 pontos na unidade 2.
 Submeter o link do repositório no github
