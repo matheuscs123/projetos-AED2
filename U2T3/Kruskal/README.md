@@ -13,19 +13,23 @@ Use o Algoritmo de Kruskal para projetar o layout mais econômico
 para infraestruturas como fibras ópticas, tubulações de água ou
 redes elétricas, minimizando o comprimento total das conexões
 necessárias.
+
 **Planejamento de Transporte:**
 Conecte grandes centros de transporte (por exemplo, terminais de
 ônibus, estações de trem e aeroportos) utilizando uma Árvore
 Geradora Mínima (MST) para identificar as rotas mais curtas e
 reduzir as distâncias de viagem.
+
 **Otimização de Rota Turística:**
 Gere uma MST conectando principais atrações turísticas (por
 exemplo, museus, pontos de referência, praias) para criar rotas de
 turismo eficientes que minimizem a distância percorrida.
+
 **Planejamento de Expansão Urbana:**
 Use uma MST para conectar bairros em desenvolvimento ou áreas
 em construção à rede urbana existente com custos mínimos de
 infraestrutura.
+
 **Análise de Infraestrutura Crítica:**
 Identifique estradas ou interseções críticas comparando a MST
 com a rede viária original, destacando as vias essenciais para
