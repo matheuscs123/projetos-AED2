@@ -1,12 +1,22 @@
   **DESCRIÇÃO**
+
+  
   
 esse trabalho foi realizado por **matheus Carvalho da Silva**(20230093670)
 
+
+
 **OBJETIVO GERAL**
+
+
 
 Este projeto tem como objetivo aplicar o Algoritmo de Kruskal para calcular a Árvore Geradora Mínima (MST) de um conjunto de pontos de interesse (PoIs), com o propósito de minimizar o custo total das conexões necessárias entre esses pontos. Utilizando a MST, buscamos resolver problemas de otimização em várias áreas, como infraestrutura urbana, transporte e redes de serviços.
 
+
+
 **SUJESTÃO DE PROBLEMAS**
+
+
 
 **Otimização de Infraestrutura**:
 Use o Algoritmo de Kruskal para projetar o layout mais econômico
@@ -35,7 +45,9 @@ Identifique estradas ou interseções críticas comparando a MST
 com a rede viária original, destacando as vias essenciais para
 manter a conectividade.
 
-**requisitos**
+
+
+**REQUISITOS**
 
 Requisito #01
 Dado um dos problemas anteriores, escolha
